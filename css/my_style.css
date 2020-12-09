@@ -1,0 +1,23 @@
+
+body {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#headers {
+    background-color:white;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+
+#inputs {
+    background-color:white;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+
+
